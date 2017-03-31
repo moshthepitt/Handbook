@@ -103,5 +103,5 @@ Grow users of both private and public projects
 
 
 # Notes
-*(expressed for example by K. Kelly, What Technology Wants, 2011). 
+*(expressed for example by K. Kelly, What Technology Wants, 2011).
 *Research at MIT has shown that products developed by end-users are the largest source of successful innovations, and user-innovation has a positive impact on social welfare (these so called ‘Lead Users’ consist of individuals as well as organizations)(E. von Hippel, Democratizing Innovation, 2006).
