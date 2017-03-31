@@ -1,7 +1,7 @@
 # OKRs
 
 ## 2017 OKRs WEVOLVER
-*What are OKRs? -> Read more [here](https://www.talentcove.com/okrs/what-are-okrs.html)
+*What are OKRs? -> Read more [here](https://www.talentcove.com/okrs/what-are-okrs.html)*
 
 
 ### Build team + culture
@@ -17,8 +17,8 @@
         = # private users growing 10% on top of traffic growth.
 
 ### Continue building Open Hardware community on the platform and social media + Wevolver brand
-    - social media (FB, Twitter, Instagram) followers grow by 20% p/m
-    - 33,000 Monthly Active Users (MAU).
+- social media (FB, Twitter, Instagram) followers grow by 20% p/m
+- 33,000 Monthly Active Users (MAU).
 
 ### Optimize repository functionality
 - improve Functionality, UX, Customer Relations (e.g. notifications) to achieve 20% p/m MAU growth on top of traffic growth through +20% retention month 0-4.
@@ -47,10 +47,10 @@
  = write down and share on the public repository, as well as send specifically to teammembers.
 
 ### Continue building Open Hardware community on the platform and social media + Wevolver brand
-        - Growth MAV 15% per Month 
-        - December 16: 10180
-        - Januari: 8650  (-15%) 
-        - Februari:  13500 (+15% on predicted nrs jan)
-        - March: 15.500 (+15%)
+- Growth MAV 15% per Month 
+- December 16: 10180
+- Januari: 8650  (-15%) 
+- Februari:  13500 (+15% on predicted nrs jan)
+- March: 15.500 (+15%)
 
 
