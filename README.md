@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Media/wevolver_logo.jpg)" width="100px"/>
+  <img src="Handbook/Media/wevolver_logo.jpg" width="100px"/>
 </p>
 
 # Handbook
