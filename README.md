@@ -1,4 +1,7 @@
-![Wevolver Logo](https://github.com/Wevolver/Handbook/blob/master/Media/wevolver_logo.jpg)
+<p align="center">
+  <img src="Media/wevolver_logo.jpg)" width="100px"/>
+</p>
+
 # Handbook
 
 In this handbook we share as much as we can about the blueprint of the Wevolver organisation. 
