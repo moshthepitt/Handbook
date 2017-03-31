@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="www.wevolver.com">
   <img src="Media/wevolver_logo.jpg" width="100px"/>
-  </a>
 </p>
 
 # Handbook
