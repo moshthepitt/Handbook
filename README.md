@@ -1,3 +1,4 @@
+![Wevolver Logo](https://github.com/Wevolver/Handbook/blob/master/Media/wevolver_logo.jpg)
 # Handbook
 
 In this handbook we share as much as we can about the blueprint of the Wevolver organisation. 
@@ -12,7 +13,7 @@ With a deep commitment to open-source, we share and contribute back to our commu
 ### Introduction
 - [Mission](https://github.com/Wevolver/Handbook/blob/master/Strategy.md#mission)
 - [Values](https://github.com/Wevolver/Handbook/blob/master/Strategy.md#values--guiding-principles)
-- [Strategy]((https://github.com/Wevolver/Handbook/blob/master/Strategy.md)
+- [Strategy](https://github.com/Wevolver/Handbook/blob/master/Strategy.md)
 - [OKRs](https://github.com/Wevolver/Handbook/blob/master/OKRs.md)
 
 ### Team Policies
