@@ -13,18 +13,18 @@ When you are applying for a technical role possessing the right skills is import
 
 Attributes we look for:
 - General Cognitive Ability
-    - Can you learn and adapt to new situations
+    - Can you learn and adapt to new situations.
 - Leadership
     - So called ‘emergent leadership,’ NOT traditional leadership. Having the character and social competence to steer things in the right direction without necessarily having the authority to do so, in a collaborative way. Do you, at the appropriate time, step in and lead, and, do you step back and stop leading, do you let someone else? 
 - ‘Wevolver’
     - Are you aligned with our [values](https://github.com/Wevolver/Handbook/blob/master/Strategy.md#values--guiding-principles)?
     - Are you enthusiastic, motivated. Do you value learning and developing yourselves. A positive, ‘can do’ attitude.’
-- Role specific skills (e.g. technical skills for software development roles)
+- Role specific skills (e.g. technical skills for software development roles).
     
 
 At the same time this is an iterative process, we are constantly learning, and we are flexible to adapt our approach, both to improve ourselves or to accommodate for unusual circumstances at Wevolver or at yours. 
 
 
-### Note:
-*This is fuelled by our own experience, and the incredible generous support and feedback we have had from our peers & advisers (you will know it if we mean you here, (thanks again)). Many books and articles have helped as well. Especially the book 'Work Rules!' by Laszlo Bock (article by Laszlo [here](https://www.wired.com/2015/04/hire-like-google)*
+*Note:*
+*This is fuelled by our own experience, and the incredible generous support and feedback we have had from our peers & advisers (you will know it if we mean you here, (thanks again)). Many books and articles have helped as well. Especially the book 'Work Rules!' by Laszlo Bock (article by Laszlo [here](https://www.wired.com/2015/04/hire-like-google))*
 
