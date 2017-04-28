@@ -15,7 +15,7 @@ These increased opportunities generate innovation, and increase social welfare.
 We are enabling decentralized collaboration on both public and private hardware projects on the Wevolver platform.
 Collaboration can be within private teams, open communities, or with an artificial intelligent system.
 
-We think the best organization create and deliver this technology and service adheres to the following model:
+We think the best organization to create and deliver this technology and service adheres to the following model:
 
 ### Open Core:
 We follow an open-core model where as much of the source code of the Wevolver platform as possible is open source. Wevolver is collaborating with a software development community on its source code.
