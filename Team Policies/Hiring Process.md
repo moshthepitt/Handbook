@@ -8,7 +8,7 @@ During this hiring process we also aim to give you a great experience. Whether i
 ## How we go about this:
 We are thorough in our approach. Both Wevolver and candidates benefit from being able to assess as good as possible; “is there a fit?”
 We try to make the assessment as objective as possible. 
-1. You will speak with and be reviewed by multiple Wevolver team mebers who will perform an independent assessment.
+1. You will speak with and be reviewed by multiple Wevolver team members who will perform an independent assessment.
 2. We make the process as uniform as possible for every candidate.
 When you are applying for a technical role possessing the right skills is important. However, in the initial interviews we focus on the essential ‘soft skills’ for having a great time at Wevolver. Only afterwards we will move to technical screening.
 
