@@ -14,7 +14,7 @@ It is in the end completely up to us as the executives (more technically, the bo
 We believe that it is in the mutual interest of Wevolver and its teammembers for you to be happy, productive and to progress as much as you can, and that working at Wevolver should be in line with your life goals.
 We completely trust you. We don’t track hours worked and let you decide where you work from. You are allowed to determine your own working hours and place unless the nature of your role and responsibilities requires differently.
 
-You can take as much time off as you need, ass long as you ensure you are able to fulfill the responsibilities and tasks related to your role:
+You can take as much time off as you need, as long as you ensure you are able to fulfill the responsibilities and tasks related to your role:
 For any time off that’s less then 21 consecutive calendar days you do not need to ask permission, as long as you make sure that your job responsibilities are covered while you are away, and that you make your absence known to your team members. To help your fellow team members we ask to announce time off as soon as possible, at least twice as long as the amount of leave you want to take (eg 2 days’ notice for 1 day’s leave).
 We strongly recommended to take at least a minimum of 2 weeks of time off per year
 
